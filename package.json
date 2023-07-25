@@ -1,0 +1,13 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.6.2"
+  },
+  "engines" : { 
+    "node": ">=18.0.0"
+  }
+}
